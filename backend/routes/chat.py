@@ -1,1 +1,1 @@
-# Chat API routes placeholder
+# Chat API route placeholder

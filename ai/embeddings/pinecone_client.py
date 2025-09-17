@@ -1,0 +1,1 @@
+# Pinecone client placeholder
